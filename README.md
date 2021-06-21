@@ -1,15 +1,12 @@
 # DM-Practical
 <head>
  <title>
+  Welcome!
+ </title>
+ </head>
+ <body>
+ <h1 HELLO!/h1>
+  <p>This is test page</p>
    DM Practical
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VEYHSD3GKQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VEYHSD3GKQ');
-</script>
-</head>
+  </body>
+</html>
