@@ -9,3 +9,4 @@
 
   gtag('config', 'G-VEYHSD3GKQ');
 </script>
+</head>
