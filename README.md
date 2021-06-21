@@ -1,5 +1,8 @@
 # DM-Practical
 <head>
+ <title>
+   DM Practical
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VEYHSD3GKQ"></script>
 <script>
